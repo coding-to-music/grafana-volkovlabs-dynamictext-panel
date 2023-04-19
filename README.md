@@ -1,3 +1,35 @@
+# grafana-volkovlabs-dynamictext-panel
+
+# 🚀 A dynamic, data-driven text for @grafana. 🚀
+
+
+https://github.com/coding-to-music/grafana-volkovlabs-dynamictext-panel
+
+From / By https://github.com/volkovlabs/volkovlabs-dynamictext-panel
+
+
+## Environment variables:
+
+```java
+
+```
+
+## user interfaces:
+
+- Grafana http://localhost:3000
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/grafana-volkovlabs-dynamictext-panel.git
+git push -u origin main
+```
+
 # Dynamic Text Panel for Grafana
 
 ![Text](https://github.com/VolkovLabs/volkovlabs-dynamictext-panel/raw/main/src/img/screenshot.png)
